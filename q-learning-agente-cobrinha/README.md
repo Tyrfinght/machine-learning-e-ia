@@ -21,4 +21,4 @@ Durante as iterações iniciais, o agente explora o mapa colidindo frequentement
 
 ## Código Fonte e Documentação
 Os scripts modulares do treinamento da IA estão disponíveis nesta pasta, bem como o Whitepaper teórico do projeto.
-👉 **[Ler o Relatório Técnico (PDF)](./Trabalho_MS571.pdf)**
+👉 **[Ler o Relatório (PDF)](./Trabalho_MS571.pdf)**
