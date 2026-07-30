@@ -26,3 +26,7 @@ A análise evidenciou que a detecção depende de um *fine-tuning* preciso dos h
 ## Relatório e Exemplos
 O texto do projeto, contendo a fundamentação teórica detalhada (comparativo com a arquitetura R-CNN) e as amostras visuais de *Bounding Boxes* geradas, está disponível abaixo:
 👉 **[Ler o Relatório  (PDF)](./Relatorio_Projeto_1_Florindo_versao_final.pdf)**
+
+## Pesos e Dados
+Devido às restrições de tamanho de arquivo do GitHub, os arquivos de pesos pré-treinados (`.weights`) e os datasets completos não estão incluídos neste repositório. 
+* Para executar o código localmente, baixe os pesos oficiais do YOLOv3 e coloque na pasta main do projeto.
